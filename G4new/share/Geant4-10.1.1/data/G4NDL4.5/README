@@ -1,0 +1,72 @@
+ACKNOWLEDGEMENT
+G4NDL data comes largely from the ENDF/B-VII library 
+which is developed and maintained by 
+the Cross Section Evaluation Working Group (CSEWG) (http://www.nndc.bnl.gov/csewg/).  
+The original data files may be accessed at the National Nuclear Data Center webpage, 
+http://www.nndc.bnl.gov/ 
+G4NDL data also comes from the JENDL library which is developed and maintained by 
+Nuclear Data Evaluation Center of Japan Atomic Energy Agency. 
+(http://wwwndc.tokai-sc.jaea.go.jp/index.html) 
+The original data files may be accessed at the Japanese Evaluated Nuclear Data Library web page.
+http://wwwndc.tokai-sc.jaea.go.jp/jendl/jendl.html#jendl-sp
+
+Koi, Tatsumi SLAC/PPA/SCA
+
+v4.5 (2013.Aug)
+Information of data source is added to each file
+Rename old README to README.old
+This file now becomes README
+
+v4.4 (2013.Jul)
+Update 74W182 and 90Th232, because their inelastic cross sections have inconsistency to the final state data.
+
+v4.3 (2013.Jun)
+Elastic, Inelastic, Capture, Fission and ThermalScattering data were zlibed.
+Thermal-neutron data is distributed together with standard data again (G4NDL.4.3.tar.gz). 
+
+v4.2 (2012.Nov)
+The thermal data was separeted from the standard G4NDL tar ball (G4NDL.4.2.tar.gz) and it is disrtibuted as G4NDL.4.2.TS.tar.gz.
+Problems were found in following isotopes and fixed 
+44Ru105, 60Nd146, 63Eu152 and 92U238
+
+v4.1 (2012.Jun)
+Most data is converted from ENDF/B-VII.r1 with processing by NJOY-99.u364 with reconstruction tolerance of 0.001.
+(We are still using NJOY99, and once NJOY2010 becomes available, 
+we will re-precessing by the tool which support a lot of new features like RML.)
+
+Following isotopese are exception
+Cl35 data cannot be finished njoy processing (put same data of G4NDL4.0)
+MT600 block exists without MT103 block 
+4Be7, 25Mn55, 33As74, 39Y90, 40Zr90, 40Zr91, 40Zr92, 40Zr93, 40Zr94, 40Zr95, 40Zr96
+69Tm168, 69Tm169, 69Tm170, 74W180, 74W182, 74W183, 74W184, 74W186
+90Th232, 91Pa231 and 91Pa232
+(put same data when corresponding data is available in G4NDL4.0 and 
+4Be7, 33As74, 69Tm168, 69Tm169 and 74W180 (6 isotopes) are left no data)
+Total 417 isotpes data were converted.
+
+Indpendent and cummulative Fission product yield data are newly below
+Fission/FF dirctory. They come from ENDF/B-VII.1 neutron fis.yields sublibrary.
+
+This version data cannot work on v9.5.p01 and before
+
+
+v4.0 (2011.Dec)
+Because  the recent major update of the data files, 
+we decide to update the major version number of G4NDL. 
+G4NDL3.16 renamed G4NDL4.0. You can check past update in README.v3.16
+
+Followings are summary of status of G4NDL4.0
+Most data come from ENDF-VII.r0 library and they are processed by NJOY-99.u364 with reconstruction tolerance of 0.001.
+Exceptions
+Data files for As75, Y90, Pa231, Pa233 and Th232 come from ENDF-VI.r8
+       Those ENDF-VII file have trouble either itself or processing by NJOY.
+No data files for Be7 and As74
+       These files also have the problem and corresponding data file is not available in ENDF-VI.r8
+All data file for isotopes heavier than Uranium are excluded from public version
+Add simplified level scheme data of Np to Cf (derived from PhotonEvaporation2.0) into inelastic/Gammas 
+
+Thermal Scattring files from ENDF/B-VII are compiled in ThermalScattering.
+They are processed by NJOY-99.u364 with reconstruction tolerance of 0.02.
+Because of the limitation of current Geant4(v9.5), Several files are not converted. 
+
+Elastic and Inelastic cross section from "JENDL High Energy File 2007" are also compiled in JENDL_HE.

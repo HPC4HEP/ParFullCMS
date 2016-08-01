@@ -1,0 +1,9 @@
+# 172AU ( 22 MS     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.2000e-02
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   1.0000e+02    6923.0000
+P     0.000004   7.7000e-03
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   7.0707e+01    6923.0000
+                             Alpha      72.0000   2.9293e+01    6851.0000

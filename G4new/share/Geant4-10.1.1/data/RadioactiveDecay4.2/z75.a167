@@ -1,0 +1,10 @@
+# 167RE (     3.4 S )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.4000e+00
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   1.0000e+02    5280.0000
+P     0.000004   3.4000e+00
+                                IT       0.0000   1.0000e+00
+P   130.000000   5.9000e+00
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   1.0000e+00    5410.0000

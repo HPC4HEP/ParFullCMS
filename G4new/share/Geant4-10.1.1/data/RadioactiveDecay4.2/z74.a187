@@ -1,0 +1,24 @@
+# 187W (  24.000 H )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   8.6400e+04
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.6643e+01    1310.9000
+                         BetaMinus     134.2440   2.1666e+00    1176.6560    uniqueFirstForbidden
+                         BetaMinus     618.3690   5.3180e+00     692.5310
+                         BetaMinus     625.5160   4.2347e+00     685.3840
+                         BetaMinus     685.7950   6.5195e+01     625.1050
+                         BetaMinus     772.8760   5.0226e+00     538.0240
+                         BetaMinus     816.5620   5.0226e-02     494.3380
+                         BetaMinus     826.8400   1.2409e-02     484.0600
+                         BetaMinus     864.5560   7.3960e-01     446.3440
+                         BetaMinus     879.4650   5.4165e-01     431.4350
+                         BetaMinus     960.1700   2.0189e-02     350.7300
+                         BetaMinus    1190.4500   1.4772e-02     120.4500
+                         BetaMinus    1220.8000   2.0681e-04      90.1000
+                         BetaMinus    1230.1200   4.0378e-02      80.7800
+P   350.431000   5.0000e-09
+                                IT       0.0000   1.0000e+00
+P   364.220000   1.5000e-08
+                                IT       0.0000   1.0000e+00
+P   410.060000   1.3800e-06
+                                IT       0.0000   1.0000e+00

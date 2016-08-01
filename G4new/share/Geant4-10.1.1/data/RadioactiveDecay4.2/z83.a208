@@ -1,0 +1,13 @@
+# 208BI ( 3.68E+5 Y )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.1613e+13
+                          MshellEC       0.0000   1.6342e-01
+                          KshellEC       0.0000   4.3078e-01
+                          LshellEC       0.0000   4.0580e-01
+                          MshellEC    2614.5220   1.6342e+01     263.8780
+                          KshellEC    2614.5220   4.3078e+01     263.8780
+                          LshellEC    2614.5220   4.0580e+01     263.8780
+P  1571.100000   2.5800e-03
+                                IT       0.0000   1.0000e+00
+P  9000.000000   4.0000e-08
+                                IT       0.0000   1.0000e+00

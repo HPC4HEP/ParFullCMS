@@ -1,0 +1,27 @@
+# 178LU ( 28.4 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.7040e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   6.2757e+01    2101.3000
+                         BetaMinus      93.1803   2.8888e+01    2008.1197
+                         BetaMinus    1174.6300   7.9691e-02     926.6700
+                         BetaMinus    1199.3850   1.1954e-01     901.9150
+                         BetaMinus    1260.2480   7.9691e-02     841.0520
+                         BetaMinus    1276.6920   2.9884e-02     824.6080
+                         BetaMinus    1310.0680   1.0957e+00     791.2320
+                         BetaMinus    1322.4630   2.9884e-02     778.8370    uniqueFirstForbidden
+                         BetaMinus    1362.5510   6.2757e-01     738.7490
+                         BetaMinus    1434.2300   3.1876e+00     667.0700
+                         BetaMinus    1443.9340   5.0803e-02     657.3660
+                         BetaMinus    1496.4490   1.0957e+00     604.8510
+                         BetaMinus    1513.6800   6.9729e-01     587.6200
+                         BetaMinus    1561.5400   3.6857e-01     539.7600
+                         BetaMinus    1566.6680   5.9768e-01     534.6320
+                         BetaMinus    1772.1500   2.6896e-01     329.1500
+                         BetaMinus    1818.2860   2.6896e-02     283.0140
+P   123.800000   1.3860e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus    1147.4160   8.3681e+01    1077.6840
+                         BetaMinus    1364.0780   3.2992e+00     861.0220
+                         BetaMinus    1479.0250   1.2997e+01     746.0750
+                         BetaMinus    1601.4840   2.2995e-02     623.6160

@@ -1,0 +1,18 @@
+# 155SM ( 22.3 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.3380e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.9218e-01    1627.2000
+                         BetaMinus     104.3340   9.2075e+01    1522.8660
+                         BetaMinus     245.7770   4.2366e+00    1381.4230
+                         BetaMinus     307.3830   2.1530e+00    1319.8170
+                         BetaMinus     768.4280   2.7781e-01     858.7720
+                         BetaMinus     817.6690   5.7547e-02     809.5310
+                         BetaMinus     876.8310   1.4883e-02     750.3690
+                         BetaMinus     911.2130   9.9218e-03     715.9870
+                         BetaMinus     923.1480   3.8695e-03     704.0520
+                         BetaMinus    1096.1800   2.9765e-03     531.0200
+                         BetaMinus    1101.6700   2.2820e-02     525.5300
+                         BetaMinus    1106.7990   2.9765e-02     520.4010
+                         BetaMinus    1264.0450   1.5875e-02     363.1550
+                         BetaMinus    1301.5900   1.0815e-01     325.6100

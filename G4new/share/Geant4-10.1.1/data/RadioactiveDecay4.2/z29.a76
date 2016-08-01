@@ -1,0 +1,7 @@
+# 76CU ( 6.4100e-01)
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000004   6.4100e-01
+                                IT       0.0000   1.0000e+00
+P     0.000005   1.2700e+00
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus    2974.4300   1.0000e+02    8325.5700

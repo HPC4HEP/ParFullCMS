@@ -1,0 +1,11 @@
+# 88ZR ( 83.4 D    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   7.2058e+06
+                          KshellEC       0.0000   8.8469e-01
+                          LshellEC       0.0000   1.1531e-01
+                          KshellEC     392.8600   8.8469e+01     283.1400
+                          LshellEC     392.8600   1.1531e+01     283.1400
+P  2887.790000   1.3200e-06
+                                IT       0.0000   1.0000e+00
+P  4713.060000   2.2500e-09
+                                IT       0.0000   1.0000e+00

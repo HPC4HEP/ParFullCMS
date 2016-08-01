@@ -1,0 +1,11 @@
+# 193PT ( 50 Y      )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.5779e+09
+                          MshellEC       0.0000   3.2390e-01
+                          LshellEC       0.0000   6.7610e-01
+                          MshellEC       0.0000   3.2390e+01      56.8000
+                          LshellEC       0.0000   6.7610e+01      56.8000
+P     1.642000   9.7000e-09
+                                IT       0.0000   1.0000e+00
+P   149.780000   3.7411e+05
+                                IT       0.0000   1.0000e+00

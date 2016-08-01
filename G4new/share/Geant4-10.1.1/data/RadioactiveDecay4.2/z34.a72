@@ -1,0 +1,11 @@
+# 72SE ( 8.40 D    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   7.2576e+05
+                          MshellEC       0.0000   2.0198e-02
+                          KshellEC       0.0000   8.7480e-01
+                          LshellEC       0.0000   1.0500e-01
+                          MshellEC      46.0250   2.0198e+00     314.9750
+                          KshellEC      46.0250   8.7480e+01     314.9750
+                          LshellEC      46.0250   1.0500e+01     314.9750
+P   937.220000   1.7500e-08
+                                IT       0.0000   1.0000e+00

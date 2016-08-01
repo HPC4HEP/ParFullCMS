@@ -1,0 +1,11 @@
+# 203RN ( 44 S      )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   4.4000e+01
+                             Alpha       0.0000   6.6000e-01
+                          BetaPlus       0.0000   3.4000e-01
+                             Alpha       0.0000   6.4277e+01    6629.8000
+                             Alpha      72.0000   1.7229e+00    6557.8000
+                          BetaPlus       0.0000   3.4000e+01    6003.2000
+P   362.000000   2.6900e+01
+                             Alpha       0.0000   1.0000e+00
+                             Alpha     310.0000   7.8000e+01    6681.8000

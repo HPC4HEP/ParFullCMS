@@ -1,0 +1,33 @@
+# 126SB ( 12.35 D   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.0670e+06
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus    1776.1900   1.9177e+01    1896.8100    uniqueFirstForbidden
+                         BetaMinus    2218.2030   2.8766e+00    1454.7970
+                         BetaMinus    2396.4200   8.6298e-01    1276.5800    uniqueFirstForbidden
+                         BetaMinus    2496.8300   1.5342e+01    1176.1700
+                         BetaMinus    2765.7500   4.6984e+00     907.2500
+                         BetaMinus    2811.6000   7.7668e+00     861.4000
+                         BetaMinus    2839.7000   7.6709e-01     833.3000    uniqueFirstForbidden
+                         BetaMinus    2974.3200   4.7943e-01     698.6800    uniqueFirstForbidden
+                         BetaMinus    2989.4000   4.0272e+00     683.6000
+                         BetaMinus    3071.1200   8.0545e+00     601.8800
+                         BetaMinus    3171.6000   5.6573e+00     501.4000
+                         BetaMinus    3193.5000   2.7807e+01     479.5000
+                         BetaMinus    3450.5000   2.0040e+00     222.5000
+                         BetaMinus    3473.5000   4.7943e-01     199.5000
+P    17.700000   1.1490e+03
+                         BetaMinus       0.0000   8.6000e-01
+                                IT       0.0000   1.4000e-01
+                         BetaMinus    1776.1900   8.0601e+01    1914.5100
+                         BetaMinus    2396.4200   3.3017e+00    1294.2800
+                         BetaMinus    2704.4900   1.2624e+00     986.2100
+                         BetaMinus    2837.1000   8.3514e-01     853.6000
+P    40.400000   1.1000e+01
+                                IT       0.0000   1.0000e+00
+P    83.000000   5.1000e-09
+                                IT       0.0000   1.0000e+00
+P   104.600000   5.5300e-07
+                                IT       0.0000   1.0000e+00
+P   127.900000   7.8000e-08
+                                IT       0.0000   1.0000e+00

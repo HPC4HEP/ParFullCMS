@@ -1,0 +1,16 @@
+Evaluated Pion Photoproduction Cross Section Data Directory
+Workman ea PhysRevC85:025201,2012
+==============================================
+Authors A.Afanasev, W.Briscoe, and I.Strakovsky
+        (revison 28 May 2012)
+
+Evaluated cross section data for pion photoproduction
+
+-- gp_pi0p.dat - gp-->pi0p
+-- gp_pi+n.dat - gp-->pi+n
+-- gn_pi-p.dat - gn-->pi-p
+-- gn_pi0n.dat - gn-->pi0n
+
+Add data format is G4VPhysicsVector compatible
+
+Kinetic energy in MeV and cross section in microbarns

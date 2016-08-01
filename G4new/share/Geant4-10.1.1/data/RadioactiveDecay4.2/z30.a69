@@ -1,0 +1,11 @@
+# 69ZN ( 56.4 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.3840e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.9999e+01     906.0000
+                         BetaMinus     318.6900   1.2000e-03     587.3100
+                         BetaMinus     872.1300   2.5000e-04      33.8700
+P   438.636000   4.9536e+04
+                         BetaMinus       0.0000   5.0008e-01
+                                IT       0.0000   4.9992e-01
+                         BetaMinus     574.2100   1.0000e+02     770.4260    uniqueFirstForbidden

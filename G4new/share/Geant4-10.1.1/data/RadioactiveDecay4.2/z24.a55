@@ -1,0 +1,9 @@
+# 55CR ( 3.497 M   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.0982e+02
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.9958e+01    2603.1000
+                         BetaMinus    1528.3500   3.8000e-02    1074.7500
+                         BetaMinus    2252.4600   3.1000e-03     350.6400
+                         BetaMinus    2266.8100   1.1000e-04     336.2900
+                         BetaMinus    2368.0000   5.9000e-04     235.1000

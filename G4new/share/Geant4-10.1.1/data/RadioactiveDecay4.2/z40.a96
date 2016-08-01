@@ -1,0 +1,12 @@
+# 96ZR ( 2e19 y )
+#
+# 19 February 2014
+# Dennis Wright - for consistency with new G4NuclideTable, add observationally
+#                 stable ground state expected to undergo double beta- decay
+#
+#   Excitation     Halflife   Mode    Daughter Ex  Intensity       Q
+P     0.000000   6.3115e+26
+                        Beta2Minus       0.0000   1.0000e+00
+                        Beta2Minus       0.0000   1.0000e+02    3347.71
+P  1581.640000   3.8000e-08
+                                IT       0.0000   1.0000e+00

@@ -1,0 +1,9 @@
+# 63NI ( 101.2 Y   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.1936e+09
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.0000e+02      66.9450
+P    87.150000   1.6700e-06
+                                IT       0.0000   1.0000e+00
+P  1291.830000   3.3300e-09
+                                IT       0.0000   1.0000e+00

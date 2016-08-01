@@ -1,0 +1,22 @@
+# 81KR ( 2.29E5 Y  )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   7.2267e+12
+                          MshellEC       0.0000   2.6423e-02
+                          KshellEC       0.0000   8.4477e-01
+                          LshellEC       0.0000   1.2881e-01
+                          MshellEC       0.0000   2.5493e+00     280.8000
+                          MshellEC     275.9850   9.3000e-02       4.8150
+                          KshellEC       0.0000   8.4477e+01     280.8000
+                          KshellEC     275.9850   1.0000e-25       4.8150
+                          LshellEC       0.0000   1.2674e+01     280.8000
+                          LshellEC     275.9850   2.0700e-01       4.8150
+P    49.570000   3.9000e-09
+                                IT       0.0000   1.0000e+00
+P   190.640000   1.3100e+01
+                          MshellEC       0.0000   1.0535e-02
+                          KshellEC       0.0000   4.3712e-01
+                          LshellEC       0.0000   5.2352e-02
+                                IT       0.0000   4.9999e-01
+                          MshellEC       0.0000   2.1071e+00     471.4400
+                          KshellEC       0.0000   8.7423e+01     471.4400
+                          LshellEC       0.0000   1.0470e+01     471.4400

@@ -1,0 +1,16 @@
+# 204PB ( 1.4e17 y )
+#
+# 19 February 2014
+# Dennis Wright - for consistency with new G4NuclideTable, add observationally
+#                 stable ground state expected to decay by alpha emission
+#
+#   Excitation     Halflife   Mode    Daughter Ex  Intensity       Q
+P     0.000000   4.4181e+24
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   1.0000e+02    1969.49
+P  1274.130000   2.6500e-07
+                                IT       0.0000   1.0000e+00
+P  2185.880000   4.0158e+03
+                                IT       0.0000   1.0000e+00
+P  2264.420000   4.5000e-07
+                                IT       0.0000   1.0000e+00

@@ -1,0 +1,9 @@
+# 107PD ( 6.5E+6 Y  )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.0512e+14
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.0000e+02      34.1000    uniqueFirstForbidden
+P   115.740000   8.5000e-07
+                                IT       0.0000   1.0000e+00
+P   214.600000   2.1300e+01
+                                IT       0.0000   1.0000e+00

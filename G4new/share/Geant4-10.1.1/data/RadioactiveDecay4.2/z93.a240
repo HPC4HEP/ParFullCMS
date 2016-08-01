@@ -1,0 +1,51 @@
+# 240NP ( 61.9 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.7140e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus     294.3190   2.1834e+00    1893.6810
+                         BetaMinus     648.8600   7.2780e-01    1539.1400    uniqueFirstForbidden
+                         BetaMinus     742.3300   3.6390e+00    1445.6700
+                         BetaMinus     958.8500   9.4614e-01    1229.1500
+                         BetaMinus    1001.9400   9.4614e-01    1186.0600    uniqueFirstForbidden
+                         BetaMinus    1030.5500   3.6390e+00    1157.4500
+                         BetaMinus    1037.5500   7.2780e+00    1150.4500
+                         BetaMinus    1076.2200   3.6390e-01    1111.7800
+                         BetaMinus    1115.5300   1.2373e+01    1072.4700
+                         BetaMinus    1161.5300   3.6390e+00    1026.4700
+                         BetaMinus    1177.6300   6.5502e+00    1010.3700
+                         BetaMinus    1232.4600   2.1834e-01     955.5400
+                         BetaMinus    1308.7400   5.7496e+01     879.2600
+P     0.000004   4.3320e+02
+                         BetaMinus       0.0000   9.9880e-01
+                                IT       0.0000   1.2000e-03
+                         BetaMinus       0.0000   1.0150e+01    2188.0000
+                         BetaMinus      42.8240   4.2629e+01    2145.1760
+                         BetaMinus     141.6900   1.5225e+00    2046.3100
+                         BetaMinus     597.3400   3.1464e+01    1590.6600
+                         BetaMinus     648.8600   1.0150e-01    1539.1400    uniqueFirstForbidden
+                         BetaMinus     860.7100   2.5375e+00    1327.2900
+                         BetaMinus     900.3200   3.8569e+00    1287.6800
+                         BetaMinus     938.0600   1.4210e+00    1249.9400
+                         BetaMinus     958.8500   1.2789e+00    1229.1500
+                         BetaMinus    1089.4500   1.0150e-01    1098.5500
+                         BetaMinus    1130.9500   1.8270e-01    1057.0500
+                         BetaMinus    1136.9700   1.4210e-02    1051.0300
+                         BetaMinus    1222.9900   2.8419e-02     965.0100
+                         BetaMinus    1240.8000   1.0150e-02     947.2000
+                         BetaMinus    1321.1300   3.4509e-02     866.8700
+                         BetaMinus    1410.7500   2.0300e-01     777.2500
+                         BetaMinus    1438.4500   3.6539e-01     749.5500
+                         BetaMinus    1488.1700   5.8869e-01     699.8300
+                         BetaMinus    1525.8600   1.6240e-01     662.1400
+                         BetaMinus    1539.6700   2.3345e+00     648.3300
+                         BetaMinus    1558.8700   3.1464e-01     629.1300
+                         BetaMinus    1607.7200   7.1049e-02     580.2800
+                         BetaMinus    1633.3700   2.6390e-01     554.6300
+                         BetaMinus    1710.4300   8.5258e-02     477.5700
+                         BetaMinus    1775.2700   5.0749e-03     412.7300
+                         BetaMinus    1796.3400   4.1614e-02     391.6600
+                         BetaMinus    1808.0200   3.0449e-02     379.9800
+                         BetaMinus    1917.8000   1.3195e-02     270.2000
+                         BetaMinus    1954.5100   5.5824e-02     233.4900
+                         BetaMinus    1996.4100   8.1198e-03     191.5900
+                         BetaMinus    2117.5000   3.8569e-03      70.5000

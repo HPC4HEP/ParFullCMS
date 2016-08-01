@@ -1,0 +1,9 @@
+# 248ES ( 27 M      )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.6200e+03
+                             Alpha       0.0000   2.5013e-03
+                          BetaPlus       0.0000   9.9750e-01
+                             Alpha     140.0000   7.0000e-02    7020.0000
+                             Alpha     170.0000   1.5750e-01    6990.0000
+                             Alpha     200.0000   2.2500e-02    6960.0000
+                          BetaPlus       0.0000   9.9700e+01    3061.0000

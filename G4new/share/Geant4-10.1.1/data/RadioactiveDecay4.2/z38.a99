@@ -1,0 +1,30 @@
+# 99SR ( 270 MS    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.7000e-01
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   3.0172e+01    7530.0000
+                         BetaMinus     125.1220   1.2069e+00    7404.8780
+                         BetaMinus     283.7300   5.0287e-01    7246.2700    uniqueSecondForbidden
+                         BetaMinus     482.2100   1.0057e-27    7047.7900
+                         BetaMinus     487.2800   5.0287e-01    7042.7200
+                         BetaMinus     536.1900   2.0115e+00    6993.8100
+                         BetaMinus     599.9900   1.7097e+00    6930.0100
+                         BetaMinus     624.3800   1.2773e+00    6905.6200    uniqueFirstForbidden
+                         BetaMinus     656.8700   1.1063e+00    6873.1300
+                         BetaMinus     817.6000   9.0516e-01    6712.4000    uniqueFirstForbidden
+                         BetaMinus    1009.0000   1.6092e+00    6521.0000
+                         BetaMinus    1011.7600   1.0661e+00    6518.2400
+                         BetaMinus    1119.6000   1.4080e+00    6410.4000
+                         BetaMinus    1191.6300   1.6092e+00    6338.3700
+                         BetaMinus    1197.9400   4.2241e+00    6332.0600
+                         BetaMinus    1213.0700   1.0057e-27    6316.9300
+                         BetaMinus    1220.6600   1.0057e-27    6309.3400
+                         BetaMinus    1402.0900   2.2126e+00    6127.9100
+                         BetaMinus    1411.6900   2.2126e+00    6118.3100
+                         BetaMinus    1930.7300   3.7212e+00    5599.2700
+                         BetaMinus    2205.9000   1.0057e+01    5324.1000
+                         BetaMinus    2239.3900   1.0057e+01    5290.6100
+                         BetaMinus    2245.3200   5.3304e+00    5284.6800
+                         BetaMinus    2276.1100   4.6264e+00    5253.8900
+                         BetaMinus    2279.7100   1.0761e+01    5250.2900
+                         BetaMinus    2314.9300   1.7097e+00    5215.0700

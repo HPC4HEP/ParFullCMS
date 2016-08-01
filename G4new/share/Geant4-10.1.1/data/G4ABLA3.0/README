@@ -1,0 +1,22 @@
+The data in this directory is based on ABLA V3 data files:
+flalpha.dat - alpha ground state deformation  
+  frldm.dat - ground state shell corr. frldm for a spherical g.s.  
+  vgsld.dat - difference between deformed g.s. and ldm value
+  pace2.dat - default mass for A, Z nucleus
+
+
+The data in this directory is meant to be used for INCL/ABLA models
+source/processes/hadronic/models/incl.
+
+ACKNOWLEDGEMENTS
+
+These data files are provided with ABLA V3.
+
+DISCLAIMER
+
+ Neither the Geant4 collaboration nor any person acting either on
+ behalf of any of them or otherwise in furtherance of the activities
+ of Geant4 as a person assumes any liabilities with respect to the use
+ of, or for damage resulting from the use of, any information, method
+ or process disclosed in the distributed material.
+

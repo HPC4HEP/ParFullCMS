@@ -1,0 +1,9 @@
+# 251BK ( 55.6 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.3360e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   5.0000e+00    1093.0000
+                         BetaMinus     177.6020   9.0000e+01     915.3980
+                         BetaMinus     211.5300   5.0000e+00     881.4700
+P    35.500000   5.8000e-05
+                                IT       0.0000   1.0000e+00

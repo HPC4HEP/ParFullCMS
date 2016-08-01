@@ -1,0 +1,30 @@
+# 94Y ( 18.7 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.1220e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   4.0953e+01    4918.0000    uniqueFirstForbidden
+                         BetaMinus     918.7500   3.9555e+01    3999.2500
+                         BetaMinus    1300.1900   1.8279e+00    3617.8100    uniqueFirstForbidden
+                         BetaMinus    1469.6200   4.0953e+00    3448.3800    uniqueFirstForbidden
+                         BetaMinus    1671.4100   3.2962e+00    3246.5900
+                         BetaMinus    2057.6300   5.2940e+00    2860.3700
+                         BetaMinus    2151.3100   3.2962e-01    2766.6900
+                         BetaMinus    2329.9000   2.9966e-02    2588.1000    uniqueFirstForbidden
+                         BetaMinus    2366.1200   5.5936e-01    2551.8800
+                         BetaMinus    2846.3000   4.0953e-01    2071.7000
+                         BetaMinus    2908.0500   2.0976e-01    2009.9500
+                         BetaMinus    2945.0000   7.7911e-02    1973.0000    uniqueSecondForbidden
+                         BetaMinus    3059.3100   1.0088e+00    1858.6900
+                         BetaMinus    3219.4200   9.4892e-01    1698.5800
+                         BetaMinus    3361.1600   5.6935e-01    1556.8400
+                         BetaMinus    3724.9000   6.6924e-02    1193.1000
+                         BetaMinus    3961.8000   2.6969e-01     956.2000
+                         BetaMinus    4002.2000   1.0987e-02     915.8000
+                         BetaMinus    4052.4000   5.9932e-03     865.6000
+                         BetaMinus    4098.5000   2.1975e-02     819.5000
+                         BetaMinus    4198.8000   2.9966e-01     719.2000
+                         BetaMinus    4237.6000   1.1187e-01     680.4000
+                         BetaMinus    4637.9000   1.9977e-02     280.1000
+                         BetaMinus    4669.8000   2.7968e-02     248.2000
+P  1202.300000   1.3500e-06
+                                IT       0.0000   1.0000e+00

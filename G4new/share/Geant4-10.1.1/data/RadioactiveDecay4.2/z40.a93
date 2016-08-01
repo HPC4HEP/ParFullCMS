@@ -1,0 +1,8 @@
+# 93ZR ( 1.61E+6 Y )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.0808e+13
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   2.7000e+01      90.8000
+                         BetaMinus      30.7700   7.3000e+01      60.0300    uniqueFirstForbidden
+P   266.820000   1.4500e-09
+                                IT       0.0000   1.0000e+00

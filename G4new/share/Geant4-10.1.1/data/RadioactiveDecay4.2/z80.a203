@@ -1,0 +1,8 @@
+# 203HG ( 46.594 D  )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   4.0257e+06
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   2.9999e-03     492.1000    uniqueFirstForbidden
+                         BetaMinus     279.1958   9.9997e+01     212.9042
+P   933.140000   2.4000e-05
+                                IT       0.0000   1.0000e+00

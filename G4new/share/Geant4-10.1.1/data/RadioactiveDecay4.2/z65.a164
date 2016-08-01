@@ -1,0 +1,29 @@
+# 164TB ( 3.0 M     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.8000e+02
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus     242.2310   4.2449e+00    3647.7690
+                         BetaMinus     976.8900   2.6122e+00    2913.1100
+                         BetaMinus    1039.3000   3.9184e+00    2850.7000    uniqueFirstForbidden
+                         BetaMinus    1122.7700   1.6327e+00    2767.2300
+                         BetaMinus    1155.7500   8.1633e-01    2734.2500
+                         BetaMinus    1225.1400   2.2041e+00    2664.8600
+                         BetaMinus    1393.7000   2.1224e+00    2496.3000
+                         BetaMinus    1587.8200   5.0612e+00    2302.1800
+                         BetaMinus    1607.7000   3.7551e+00    2282.3000
+                         BetaMinus    1686.4000   2.1224e+00    2203.6000
+                         BetaMinus    1725.3000   3.2653e-01    2164.7000
+                         BetaMinus    1770.2000   1.3061e+00    2119.8000
+                         BetaMinus    1932.4000   7.1020e+00    1957.6000
+                         BetaMinus    1952.8000   2.8571e+00    1937.2000
+                         BetaMinus    1998.2300   5.4694e+00    1891.7700
+                         BetaMinus    2157.5400   3.2653e+00    1732.4600
+                         BetaMinus    2173.1600   3.2653e+00    1716.8400
+                         BetaMinus    2194.6600   9.2245e+00    1695.3400
+                         BetaMinus    2205.6300   2.6612e+01    1684.3700
+                         BetaMinus    2247.6000   2.2041e+00    1642.4000
+                         BetaMinus    2312.5000   1.7143e+00    1577.5000
+                         BetaMinus    2752.8000   1.1429e+00    1137.2000
+                         BetaMinus    3001.6000   9.7959e-01     888.4000
+                         BetaMinus    3005.5000   3.2653e-01     884.5000
+                         BetaMinus    3014.2000   5.7143e+00     875.8000

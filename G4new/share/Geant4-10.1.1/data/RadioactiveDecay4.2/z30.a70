@@ -1,0 +1,12 @@
+# 70ZN ( 1.3e18 y )
+#
+# 19 February 2014
+# Dennis Wright - for consistency with new G4NuclideTable, add observationally
+#                 stable ground state expected to undergo double beta- decay
+#
+#   Excitation     Halflife   Mode    Daughter Ex  Intensity       Q
+P     0.000000   4.1025e+25
+                        Beta2Minus       0.0000   1.0000e+00
+                        Beta2Minus       0.0000   1.0000e+02     998.463
+P  1070.240000   3.9000e-09
+                                IT       0.0000   1.0000e+00

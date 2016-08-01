@@ -1,0 +1,9 @@
+# 253CF ( 17.81 D   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.5388e+06
+                             Alpha       0.0000   3.1000e-03
+                         BetaMinus       0.0000   9.9690e-01
+                             Alpha      48.7600   2.9357e-01    6077.2400
+                             Alpha     110.1730   1.6430e-02    6015.8270
+                         BetaMinus       0.0000   4.9845e+01     287.0000
+                         BetaMinus      46.4000   4.9845e+01     240.6000

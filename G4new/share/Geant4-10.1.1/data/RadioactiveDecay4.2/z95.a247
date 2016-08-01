@@ -1,0 +1,7 @@
+# 247AM ( 23.0 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.3800e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   5.8252e+00    1620.0000    uniqueFirstForbidden
+                         BetaMinus     227.3800   2.8155e+01    1392.6200
+                         BetaMinus     285.4100   6.6019e+01    1334.5900

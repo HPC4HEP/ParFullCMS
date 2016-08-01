@@ -1,0 +1,8 @@
+# 95ZR (  64.032 D )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.5324e+06
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.0302e-01    1123.6000
+                         BetaMinus     235.6900   1.0802e+00     887.9100    uniqueFirstForbidden
+                         BetaMinus     724.1950   4.4348e+01     399.4050
+                         BetaMinus     756.7280   5.4469e+01     366.8720

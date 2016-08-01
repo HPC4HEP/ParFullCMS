@@ -1,0 +1,9 @@
+# 226RA ( 1600 Y    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.0492e+10
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   9.3833e+01    4870.6200
+                             Alpha     186.2110   6.1595e+00    4684.4090
+                             Alpha     448.3700   6.4995e-03    4422.2500
+                             Alpha     600.6600   9.9992e-04    4269.9600
+                             Alpha     635.4700   2.6998e-04    4235.1500

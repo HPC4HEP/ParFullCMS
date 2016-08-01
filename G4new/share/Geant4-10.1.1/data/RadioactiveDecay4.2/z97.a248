@@ -1,0 +1,25 @@
+# 248BK ( 23.7 H    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000004   8.5320e+04
+                          MshellEC       0.0000   1.1625e-02
+                          KshellEC       0.0000   1.0687e-01
+                          LshellEC       0.0000   3.1506e-02
+                             Alpha       0.0000   5.0000e-01
+                         BetaMinus       0.0000   3.5000e-01
+                          MshellEC       0.0000   1.8036e+00     687.0000
+                          MshellEC      43.4000   5.2140e-01     643.6000
+                          KshellEC       0.0000   1.6701e+01     687.0000
+                          KshellEC      43.4000   4.6728e+00     643.6000
+                          LshellEC       0.0000   4.8955e+00     687.0000
+                          LshellEC      43.4000   1.4058e+00     643.6000
+                             Alpha       0.0000   1.0000e+02    5775.0000
+                         BetaMinus       0.0000   7.0000e+01     841.0000
+P     0.000005   8.5320e+04
+                         BetaMinus       0.0000   3.5000e-01
+                             Alpha       0.0000   5.0000e-01
+                          BetaPlus       0.0000   1.5000e-01
+                         BetaMinus       0.0000   4.5000e+01     860.0000
+                         BetaMinus      41.5300   2.0000e+01     818.4700
+                         BetaMinus     592.2000   5.0000e+00     267.8000
+                             Alpha       0.0000   1.0000e+02    5775.0000
+                          BetaPlus       0.0000   3.0000e+01     687.0000

@@ -1,0 +1,8 @@
+# 144DY ( 9.1 S     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   9.1000e+00
+                          BetaPlus       0.0000   1.0000e+00
+                          BetaPlus       0.0000   2.5000e+01    6092.0000
+                          BetaPlus     196.5000   2.5000e+01    5895.5000
+                          BetaPlus     298.6000   2.5000e+01    5793.4000
+                          BetaPlus     475.5000   2.5000e+01    5616.5000

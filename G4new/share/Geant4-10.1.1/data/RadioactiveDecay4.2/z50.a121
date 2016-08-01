@@ -1,0 +1,13 @@
+# 121SN ( 27.03 H   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   9.7308e+04
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.0000e+02     390.6000
+P     6.310000   1.3854e+09
+                         BetaMinus       0.0000   2.2400e-01
+                                IT       0.0000   7.7600e-01
+                         BetaMinus      37.1298   2.2400e+01     359.7802    uniqueFirstForbidden
+P  1998.000000   5.3000e-06
+                                IT       0.0000   1.0000e+00
+P  2834.000000   1.6700e-07
+                                IT       0.0000   1.0000e+00

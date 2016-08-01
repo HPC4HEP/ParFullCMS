@@ -1,0 +1,18 @@
+# 140XE ( 13.60 S   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.3600e+01
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus      80.1180   9.2652e+00    3979.8820
+                         BetaMinus     514.8200   1.1715e+00    3545.1800
+                         BetaMinus     653.3600   6.8158e+00    3406.6400
+                         BetaMinus     800.3800   4.2599e-01    3259.6200
+                         BetaMinus     965.7800   7.4547e-01    3094.2200
+                         BetaMinus    1081.7700   8.5197e-01    2978.2300
+                         BetaMinus    1137.0700   4.6858e+00    2922.9300
+                         BetaMinus    1159.7100   4.2599e-01    2900.2900
+                         BetaMinus    1193.6000   4.2599e-01    2866.4000
+                         BetaMinus    1289.2000   3.5144e+00    2770.8000
+                         BetaMinus    1427.5800   6.9223e+01    2632.4200
+                         BetaMinus    1989.5600   8.5197e-01    2070.4400
+                         BetaMinus    2286.0500   4.2599e-01    1773.9500
+                         BetaMinus    2324.3100   1.1715e+00    1735.6900

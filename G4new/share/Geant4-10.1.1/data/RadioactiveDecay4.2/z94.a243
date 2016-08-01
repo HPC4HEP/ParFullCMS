@@ -1,0 +1,17 @@
+# 243PU ( 4.956 H   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.7842e+04
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   5.8940e+01     579.4000
+                         BetaMinus      42.2000   7.9918e+00     537.2000
+                         BetaMinus      84.0000   2.0979e+01     495.4000
+                         BetaMinus      96.4000   2.2977e+00     483.0000
+                         BetaMinus     109.2000   4.9949e+00     470.2000
+                         BetaMinus     143.5000   3.4964e+00     435.9000
+                         BetaMinus     407.1000   1.1988e-03     172.3000
+                         BetaMinus     465.7000   1.2687e+00     113.7000
+                         BetaMinus     532.5000   3.0968e-02      46.9000
+P   383.600000   3.3000e-07
+                                IT       0.0000   1.0000e+00
+P  1700.000000   4.5000e-08
+                                IT       0.0000   1.0000e+00

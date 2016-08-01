@@ -1,0 +1,13 @@
+# 73AS ( 80.30 D   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   6.9379e+06
+                          MshellEC       0.0000   1.9831e-02
+                          KshellEC       0.0000   8.7526e-01
+                          LshellEC       0.0000   1.0491e-01
+                          MshellEC      66.7260   1.9831e+00     274.1740
+                          KshellEC      66.7260   8.7526e+01     274.1740
+                          LshellEC      66.7260   1.0491e+01     274.1740
+P    67.039000   4.9500e-09
+                                IT       0.0000   1.0000e+00
+P   427.906000   5.7000e-06
+                                IT       0.0000   1.0000e+00

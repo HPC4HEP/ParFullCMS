@@ -1,0 +1,32 @@
+# 136CE ( 7e13 y )
+#
+# 20 February 2014
+# Dennis Wright - for consistency with new G4NuclideTable, add observationally
+#                 stable ground state expected to undergo double beta+ decay
+#
+#   Excitation     Halflife   Mode    Daughter Ex  Intensity      Q
+P     0.000000   2.2090e+21
+                         Beta2Plus       0.0000   1.0000e+00
+                         Beta2Plus       0.0000   1.0000e+02    2418.6
+P  1978.500000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  2214.000000   5.0000e-09
+                                IT       0.0000   1.0000e+00
+P  2307.100000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  2366.500000   5.0000e-09
+                                IT       0.0000   1.0000e+00
+P  2424.900000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  3095.500000   2.2000e-06
+                                IT       0.0000   1.0000e+00
+P  3146.700000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  3278.100000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  3400.000000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  3987.000000   3.0000e-09
+                                IT       0.0000   1.0000e+00
+P  4084.300000   3.0000e-09
+                                IT       0.0000   1.0000e+00

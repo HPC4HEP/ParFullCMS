@@ -1,0 +1,9 @@
+# 207TL ( 4.77 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.8620e+02
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.9729e+01    1418.0000
+                         BetaMinus     569.6982   8.0000e-05     848.3018    uniqueFirstForbidden
+                         BetaMinus     897.6980   2.7100e-01     520.3020
+P  1348.180000   1.3300e+00
+                                IT       0.0000   1.0000e+00

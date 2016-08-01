@@ -1,0 +1,40 @@
+The data in these directories are derived evaluations based on
+the following evaluated data libraries (in alphabetic order)
+
+Brond-2.1
+CENDL2.2
+EFF-3
+ENDF/B-VI.0
+ENDF/B-VI.1
+ENDF/B-VI.5
+FENDL/E2.0
+JEF2.2
+JENDL-FF
+JENDL-3.1
+JENDL-3.2
+MENDL-2
+
+Large parts of the selections were guided by the FENDL2.0 selection.
+
+This data evaluation is meant exclusively for use with
+the neutron_hp and isotope_production categories of geant4.
+
+Use of data in and taken from this directory structure 
+for any purpose other than simulation of neutron
+scattering and isotope production with the neutron_hp and isotope_production
+categories of geant4 is prohibited.
+
+If there is strong interest from your side to use these data
+for other purposes, please contact me, and I will try, case by case,
+to obtain the agreement of the authors of the evaluated data 
+libraries. (Hans-Peter.Wellisch@cern.ch)
+
+DISCLAIMER
+
+ Neither the geant4 collaboration nor any person
+ acting either on behalf of any of them or otherwise in
+ furtherance of the activities of geant4 nor Johannes Peter Wellisch
+ as a person assumes any liabilities with respect to the use of, or for
+ damage resulting from the use of, any information, method or
+ process disclosed in the distributed material.
+

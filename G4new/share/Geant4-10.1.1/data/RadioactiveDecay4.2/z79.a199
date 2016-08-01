@@ -1,0 +1,11 @@
+# 199AU (   3.139 D )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.7121e+05
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   6.5000e+00     452.0000
+                         BetaMinus     158.3786   7.2000e+01     293.6214
+                         BetaMinus     208.2049   2.1500e+01     243.7951
+P    77.194200   1.3000e-09
+                                IT       0.0000   1.0000e+00
+P   548.940500   4.4000e-04
+                                IT       0.0000   1.0000e+00

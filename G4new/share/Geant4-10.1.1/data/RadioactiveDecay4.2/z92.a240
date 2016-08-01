@@ -1,0 +1,13 @@
+# 240U ( 14.1 H    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.0760e+04
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   6.9930e+01     400.0000
+                         BetaMinus      44.1700   2.3310e+01     355.8300
+                         BetaMinus      82.6000   1.3054e-01     317.4000
+                         BetaMinus     110.7000   2.3310e+00     289.3000
+                         BetaMinus     111.6000   1.5851e-01     288.4000
+                         BetaMinus     189.7000   3.2634e+00     210.3000
+                         BetaMinus     280.0000   8.3916e-01     120.0000
+                         BetaMinus     294.8000   9.3240e-03     105.2000
+                         BetaMinus     299.8000   2.7972e-02     100.2000

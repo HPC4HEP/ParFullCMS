@@ -1,0 +1,14 @@
+# 151EU ( 1.7e18 y )
+#
+# 19 February 2014
+# Dennis Wright - for consistency with new G4NuclideTable, add observationally
+#                 stable ground state expected to decay by alpha emission
+#  
+#   Excitation     Halflife   Mode    Daughter Ex  Intensity        Q
+P     0.000000   5.3648e+25
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   1.0000e+02    1963.9300
+P    21.541000   9.6000e-09
+                                IT       0.0000   1.0000e+00
+P   196.245000   5.8900e-05
+                                IT       0.0000   1.0000e+00

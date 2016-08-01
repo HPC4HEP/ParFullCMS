@@ -1,0 +1,9 @@
+# 224RA ( 3.66 D    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.1622e+05
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   9.4922e+01    5788.8700
+                             Alpha     240.9860   5.0601e+00    5547.8840
+                             Alpha     533.6800   7.1002e-03    5255.1900
+                             Alpha     645.4400   7.6002e-03    5143.4300
+                             Alpha     663.0300   3.0001e-03    5125.8400

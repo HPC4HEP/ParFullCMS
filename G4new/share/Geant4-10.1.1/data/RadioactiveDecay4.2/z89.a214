@@ -1,0 +1,9 @@
+# 214AC ( 8.2 S     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   8.2000e+00
+                             Alpha       0.0000   8.9423e-01
+                          BetaPlus       0.0000   1.0577e-01
+                             Alpha       0.0000   4.8360e+01    7350.0000
+                             Alpha     138.6000   4.0920e+01    7211.4000
+                             Alpha     215.0000   3.7200e+00    7135.0000
+                          BetaPlus       0.0000   1.1000e+01    6351.6000

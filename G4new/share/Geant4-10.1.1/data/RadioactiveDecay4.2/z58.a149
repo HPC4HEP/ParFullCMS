@@ -1,0 +1,10 @@
+# 149CE ( 5.3 S     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.3000e+00
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.6667e+01    4360.0000
+                         BetaMinus      57.7000   1.6667e+01    4302.3000
+                         BetaMinus      86.3000   1.6667e+01    4273.7000
+                         BetaMinus     380.1000   1.6667e+01    3979.9000
+                         BetaMinus     864.5000   1.6667e+01    3495.5000
+                         BetaMinus     892.7000   1.6667e+01    3467.3000

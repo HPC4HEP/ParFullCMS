@@ -1,0 +1,28 @@
+-------------------------------------------------------------------
+
+     =========================================================
+     Geant4 - an Object-Oriented Toolkit for Simulation in HEP
+     =========================================================
+
+         History file for the Photon Evaporation Database
+         ------------------------------------------------
+
+     * Reverse chronological order (last date on top), please *
+     ---------------------------------------------------------
+
+19 February 2014 Dennis Wright         PhotonEvaporation3.1
+-----------------------------------------------------------
+- contains Laurent Desorgher's corrections of of +X, +Y, ... levels for
+    compliance with latest isomer list
+- problem report 1565: propagate bug fix in NUDAT2 to PhotonEvaporation:
+    212Bi (z83.a212, line 8), change strength of gamma transition
+    (415.272 keV to ground state) from 4.4 to 0.4. 
+
+3 September 2013  Laurent Desorgher    PhotonEvaporation3.0
+-----------------------------------------------------------
+- update to August 2012 version of ENSDF
+
+7 November 2013  Dennis Wright
+-----------------------------------------------------------
+- update README with Michel Maire's corrections
+

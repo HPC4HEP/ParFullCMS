@@ -1,0 +1,5 @@
+# 42AR ( 32.9 Y    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.0382e+09
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.0000e+02     599.0000    uniqueFirstForbidden

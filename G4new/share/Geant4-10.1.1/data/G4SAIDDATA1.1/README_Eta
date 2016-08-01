@@ -1,0 +1,13 @@
+Evaluated Eta Photoproduction Cross Section Data Directory
+McNicoll ea PhysRevC82:035208,2010
+==============================================
+Authors A.Afanasev, W.Briscoe, and I.Strakovsky
+        (revison 28 May 2012)
+
+Evaluated cross section data for pion photoproduction
+
+-- gp_etap.dat - gp-->etap
+
+Add data format is G4VPhysicsVector compatible
+
+Kinetic energy in MeV and cross section in microbarns

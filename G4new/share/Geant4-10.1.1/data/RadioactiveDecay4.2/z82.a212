@@ -1,0 +1,9 @@
+# 212PB (  10.64 H  )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.8304e+04
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.1890e+01     569.9000
+                         BetaMinus     238.6320   8.3034e+01     331.2680
+                         BetaMinus     415.2720   5.0759e+00     154.6280
+P     0.000004   5.0000e-06
+                                IT       0.0000   1.0000e+00

@@ -1,0 +1,204 @@
+ACKNOWLEDGEMENT
+G4NDL data comes largely from the ENDF/B-VI(VII since NDL3.15) library 
+which is developed and maintained by 
+the Cross Section Evaluation Working Group (CSEWG) (http://www.nndc.bnl.gov/csewg/).  
+The original data files may be accessed at the National Nuclear Data Center webpage, 
+http://www.nndc.bnl.gov/ 
+G4NDL data also comes from the JENDL library which is developed and maintained by 
+Nuclear Data Evaluation Center of Japan Atomic Energy Agency. 
+(http://wwwndc.tokai-sc.jaea.go.jp/index.html) 
+The original data files may be accessed at the Japanese Evaluated Nuclear Data Library web page.
+http://wwwndc.tokai-sc.jaea.go.jp/jendl/jendl.html#jendl-sp
+
+New Thermal Scattring files  
+H in H2O
+	source: H2O   (thermal) from ENDF/B-VI Tape 118
+Graphite
+	source: graphite thermal file from lanl for release 2
+Polyethylene
+	source: Poly  (thermal) from ENDF/B-VI Tape 118
+
+New JENDL_HE files 
+Elastic and Inelastic cross section from "JENDL High Energy File 2004" 
+for H(1), C(12,13), O(16), Mg(24,25,26), Al(27), Si(28,29,30), 
+K(39,41), Ca(40,42,43,44,46,48), Fe(54,56,57,58), Cu(63,65),
+Zn(64,66,67,68,70)        
+Above files are selected for creating Concrete, Iron and Brass. 
+**************************************************************
+N(7), Ti(46, 47, 48, 49 50), V(51), Cr(50, 52, 53, 54), Mn(55),
+Co(59), Ni(58, 60, 61, 62, 62), Zr(90, 91, 92, 94, 96), Nb(94),   
+W(180, 182, 183, 184, 186), Hg(196, 198, 199, 200, 201, 202, 204)
+Add rest of isotope in JENDL_HE neutron files v13 
+**************************************************************
+Elastic and Inelastic cross section from "JENDL High Energy File 2007" 
+All 107 isotopes are converted (except for Am242m) v3.13
+**************************************************************
+
+Add excited isomer data from ENDF-VII.r0 
+Co58m1, Ag110m1, Cd115m1, Te127m1, Te129m1, Pm148m1, Ho166m1, Am242m1 and Am244m2 
+Replace or Thermal Scattering Data from ENDF/B-VII
+
+v3.16
+**************************************************************
+
+All neutron data file below Elastic, Inelastic, Capture and Fission are replaced.
+New data comes from ENDF-VII.r0 library.
+New files are processed by NJOY-99.u364 with reconstruction tolerance of 0.001.
+Exceptions
+Data files for As75, Y90, Pa231, Pa233 and Th232 come from ENDF-VI.r8
+       Those ENDF-VII file have trouble either itself or processing by NJOY.
+No data files for Be7 and As74
+       These files also have the problem and corresponding data file is not available in ENDF-VI.r8
+All excited isomer data are excluded, because current Geant4 cannot handle them properly.
+All data file for isotopes heavier than Uranium are excluded.
+Add simplified level scheme data of Np to Cf (derived from PhotonEvaporation2.0) into inelastic/Gammas 
+Total 389 isotopes including 3 natural abundance data
+(v3.14 had 180 isotopes with 15 natural abundances)
+
+v3.15
+**************************************************************
+
+Add Zinc 
+	Zn_nat:ENDF/B-VII Original BROND-2.2 data taken from:  JEFF-3.1
+Add Tantalum   
+	Ta181:Ta-181 (neutron) from ENDF/B-VI Tape 106
+	Ta182:Ta-182 (neutron) from ENDF/B-VI Tape 106
+Replace Lithium data       
+	Li6:ENDF/B-VII 
+	Li7:ENDF/B-VII 
+Replace Boron data       
+	B10:ENDF/B-VII 
+	B11:ENDF/B-VII 
+
+v3.14
+**************************************************************
+
+Correct wrong entry in 
+	Inelastic/F04/26_58_Iron
+	Inelastic/F04/24_54_Chromium
+	Inelastic/F04/24_50_Chromium
+	Inelastic/F04/26_54_Iron
+	Inelastic/F23/26_54_Iron
+	Inelastic/Gammas/z63.a150
+	Inelastic/Gammas/z63.a151
+	Inelastic/F06/28_62_Nickel
+	Inelastic/F10/64_160_Gadolinium
+	Capture/FS/16_nat_Sulfur
+Previous files are still available in each directory with surfix of .org
+Add data file 
+	Inelastic/Gammas/z63.a149
+Add Th (excluded Fission related data) 
+	source: Th-230(neutron) from ENDF/B-VI Tape 110
+	source: Th-232(neutron) from ENDF/B-VI Tape 109
+
+v3.13
+**************************************************************
+
+Replace Nitrogen15 data
+	source: ENDF6
+**************************************************************
+
+Change Cadium data
+	source: JENDL-3.3	48-Cd-106
+	source: JENDL-3.3	48-Cd-108
+	source: JENDL-3.3	48-Cd-110
+	source: JENDL-3.3	48-Cd-111
+	source: JENDL-3.3	48-Cd-112
+	source: JENDL-3.3	48-Cd-113
+	source: JENDL-3.3	48-Cd-114
+	source: JENDL-3.3	48-Cd-116
+
+Add Hg
+	source: ENDF/B-VII	80-Hg-196
+	source: ENDF/B-VII	80-Hg-198
+	source: ENDF/B-VII	80-Hg-199
+	source: ENDF/B-VII	80-Hg-200
+	source: ENDF/B-VII	80-Hg-201
+	source: ENDF/B-VII	80-Hg-202
+	source: ENDF/B-VII	80-Hg-204
+
+Add Radium data
+	source: ENDF/B-VII	JENDL-3.3 Ra- 223
+	source: ENDF/B-VII	JENDL-3.3 Ra- 224
+	source: ENDF/B-VII	JENDL-3.3 Ra- 225
+	source: ENDF/B-VII	JENDL-3.3 Ra- 226
+
+Add Br
+	source: Br-79 (neutron) from ENDF/B-VI Tape 102
+	source: Br-81 (neutron) from ENDF/B-VI Tape 102 
+
+Add La 
+        source: La-139 (neutron) revision 1 from tape120
+	source: La-140 (neutron) from ENDF/B-VI Tape 105
+
+
+**************************************************************
+Add Germanium data
+	source: JENDL-3.3   Ge- 70
+	source: JENDL-3.3   Ge- 72
+	source: JENDL-3.3   Ge- 73
+	source: JENDL-3.3   Ge- 74
+	source: JENDL-3.3   Ge- 76
+Add Silver data 
+	source: Ag-107 (neutron) from ENDF/B-VI Tape 104
+	source: Ag-109 from ENDF/B-VI Release 8 Tape161
+	source: Ag-111 (neutron) from ENDF/B-VI Tape 104
+
+Add Special file 0_0_Zero which give 0 cross section over all energy range
+
+
+**************************************************************
+Add Antimony data
+	source: Sb-121 from ENDF/B-VI Release 8 Tape163
+	source: Sb-123 from ENDF/B-VI Release 8 Tape163
+Add Hafnium data
+	source: Hf-174B (neutron) FROM ENDF/B-VI.2 TAPE 127
+	source: Hf-176B (neutron) FROM ENDF/B-VI.2 TAPE 127
+	source: Hf-177B (neutron) FROM ENDF/B-VI.2 TAPE 127
+	source: Hf-178N (neutron) FROM ENDF/B-VI.2 TAPE 127
+	source:	Hf-179B (neutron) FROM ENDF/B-VI.2 TAPE 127
+Add Technetium data
+	source: Tc-99 from ENDF/B-VI Release 8 Tape161
+Add Samarium data
+	sourcy:	SM-144 FROM TAPE 134
+	source: Sm-147 from ENDF/B-VI Release 8 Tape161
+	source: Sm-148 (neutron) from ENDF/B-VI Tape 106
+	source: Sm-149 (neutron) from ENDF/B-VI Tape 106
+	source:	Sm-150B (neutron) FROM ENDF/B-VI.2 TAPE 127
+	source: Sm-151 from ENDF/B-VI Release 8 Tape161
+	source: Sm-152 from ENDF/B-VI Release 8 Tape161
+	source: Sm-153 (neutron) from ENDF/B-VI Tape 106
+	source: Sm-154 (neutron) from ENDF/B-VI Tape 106
+Add Neodymium data   
+        source: Nd-142 (neutron) from ENDF/B-VI Tape 105
+        source: Nd-143 from ENDF/B-VI Release 8 Tape161
+        source: Nd-144 (neutron) from ENDF/B-VI Tape 105
+        source: Nd-145 (neutron) FROM ENDF/B-VI.2 TAPE 127                       
+        source: Nd-146 (neutron) from ENDF/B-VI Tape 105
+        source: Nd-147 (neutron) revision 1 from tape120
+        source: Nd-148 (neutron) from ENDF/B-VI Tape 105
+        source: Nd-150 (neutron) from ENDF/B-VI Tape 105
+
+**************************************************************
+Add Gadorinium data 
+	source: Gd-152 from ENDF/B-VI Release 8 Tape162
+	source: Gd-154 from ENDF/B-VI Release 8 Tape162
+	source: Gd-156 (neutron) from ENDF/B-VI Tape 106
+	source: Gd-157 (neutron) from ENDF/B-VI Tape 106
+	source: Gd-158 (neutron) from ENDF/B-VI Tape 106
+	source: Gd-160 (neutron) from ENDF/B-VI Tape 106 
+
+
+Replace Inelastic/CrossSection/17_nat_Chlorine
+	source: Cl-NAT (neutron) from ENDF/B-VI Tape 101
+
+Replace Inelastic/F10/28_62_Nickel
+	source: Ni-62 (neutron) revision 1 from ENDF/B-VI tape124
+
+Remove  Inelastic/CrossSection/32_70_Germanium
+                               32_72_Germanium
+                               32_73_Germanium
+                               32_74_Germanium
+                               32_76_Germanium
+
+Tatsumi Koi SLAC/SCCS

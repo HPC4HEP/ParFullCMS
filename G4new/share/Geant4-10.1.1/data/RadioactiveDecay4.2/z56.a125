@@ -1,0 +1,8 @@
+# 125BA ( 3.3 M     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.9800e+02
+                          BetaPlus       0.0000   1.0000e+00
+                          BetaPlus      77.1100   5.0000e+01    4342.8900
+                          BetaPlus     140.3000   5.0000e+01    4279.7000
+P    67.700004   2.7600e-06
+                                IT       0.0000   1.0000e+00

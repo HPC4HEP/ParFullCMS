@@ -1,0 +1,19 @@
+# 47CR ( 500 MS    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.0000e-01
+                          MshellEC       0.0000   1.4651e-05
+                          BetaPlus       0.0000   9.9904e-01
+                          KshellEC       0.0000   8.5920e-04
+                          LshellEC       0.0000   8.8227e-05
+                          MshellEC       0.0000   1.4057e-03    7444.0000
+                          MshellEC      87.5250   5.9376e-05    7356.4750
+                          BetaPlus       0.0000   9.6008e+01    7444.0000
+                          BetaPlus      87.5250   3.8962e+00    7356.4750
+                          KshellEC       0.0000   8.2440e-02    7444.0000
+                          KshellEC      87.5250   3.4792e-03    7356.4750
+                          LshellEC       0.0000   8.4650e-03    7444.0000
+                          LshellEC      87.5250   3.5766e-04    7356.4750
+P    99.100000   2.1000e-09
+                                IT       0.0000   1.0000e+00
+P   174.200000   2.1000e-09
+                                IT       0.0000   1.0000e+00

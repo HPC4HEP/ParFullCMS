@@ -1,0 +1,11 @@
+# 41CA ( 1.02E+5 Y )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.2189e+12
+                          MshellEC       0.0000   1.4820e-02
+                          KshellEC       0.0000   8.9358e-01
+                          LshellEC       0.0000   9.1598e-02
+                          MshellEC       0.0000   1.4820e+00     421.3900
+                          KshellEC       0.0000   8.9358e+01     421.3900
+                          LshellEC       0.0000   9.1598e+00     421.3900
+P  3829.830000   2.9500e-09
+                                IT       0.0000   1.0000e+00

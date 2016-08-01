@@ -1,0 +1,20 @@
+Evaluated neutron cross section data directory
+==============================================
+   authors A.Ivanchenko & V.Ivanchenko
+        (revison 8 February 2013)
+
+Evaluated cross section data for natuaral composition of elements 
+
+-- elastZ   - elastic 
+-- inelastZ - inelastic
+-- catZ     - capture
+
+Data for selected isotopes
+
+-- inelastZ_A - inelastic
+-- capZ_A     - capture
+
+Add data format is G4VPhysicsVector compatible
+
+These data are used by neutron cross section classes G4NeutronCaptureXS,
+G4NeutronElasticXS, G4NeutronInelasticXS

@@ -1,0 +1,14 @@
+# 24SI ( 140 MS    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.4000e-01
+                          BetaPlus       0.0000   1.0000e+00
+                          BetaPlus    3000.0000   1.0000e+01    7812.0000
+                          BetaPlus    3370.0000   1.0000e+01    7442.0000
+                          BetaPlus    4400.0000   1.0000e+01    6412.0000
+                          BetaPlus    4670.0000   1.0000e+01    6142.0000
+                          BetaPlus    4970.0000   1.0000e+01    5842.0000
+                          BetaPlus    5430.0000   1.0000e+01    5382.0000
+                          BetaPlus    5760.0000   1.0000e+01    5052.0000
+                          BetaPlus    5960.0000   1.0000e+01    4852.0000
+                          BetaPlus    6250.0000   1.0000e+01    4562.0000
+                          BetaPlus    6530.0000   1.0000e+01    4282.0000

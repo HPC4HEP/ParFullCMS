@@ -1,0 +1,9 @@
+# 118TE (  6.00 D   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   5.1840e+05
+                          MshellEC       0.0000   3.3397e-02
+                          KshellEC       0.0000   8.4072e-01
+                          LshellEC       0.0000   1.2589e-01
+                          MshellEC       0.0000   3.3397e+00     278.0000
+                          KshellEC       0.0000   8.4072e+01     278.0000
+                          LshellEC       0.0000   1.2589e+01     278.0000

@@ -1,0 +1,10 @@
+Geant4 G4SAIDDATA - nucleon cross sections 
+-----------------------------------------------
+
+11 October 2012 V.Ivanchenko fixed length of vectors G4SAIDDATA1.1 
+
+29 May 2012 V.Ivanchenko prepared for the 1st release G4SAIDDATA1.0 
+
+28 May 2012  I.Strakovsky added gamma nucleon data
+
+03 March 2012  I.Strakovsky prepared data for p,n,pi inelastic and elastic

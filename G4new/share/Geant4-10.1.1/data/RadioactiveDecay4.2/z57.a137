@@ -1,0 +1,13 @@
+# 137LA ( 6E+4 Y    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.8935e+12
+                          MshellEC       0.0000   3.5079e-02
+                          KshellEC       0.0000   8.4047e-01
+                          LshellEC       0.0000   1.2446e-01
+                          MshellEC       0.0000   3.5079e+00     621.0000
+                          KshellEC       0.0000   8.4047e+01     621.0000
+                          LshellEC       0.0000   1.2446e+01     621.0000
+P    10.590000   8.9000e-08
+                                IT       0.0000   1.0000e+00
+P  1869.500000   3.4200e-07
+                                IT       0.0000   1.0000e+00

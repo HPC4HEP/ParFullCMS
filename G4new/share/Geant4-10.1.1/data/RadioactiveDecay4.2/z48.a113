@@ -1,0 +1,11 @@
+# 113CD ( 8.04E15 Y )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   2.5372e+23
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   1.0000e+02     322.0000
+P   263.540000   4.4496e+08
+                         BetaMinus       0.0000   9.9860e-01
+                                IT       0.0000   1.4000e-03
+                         BetaMinus       0.0000   9.9860e+01     585.5400
+P   316.206000   1.0800e-08
+                                IT       0.0000   1.0000e+00

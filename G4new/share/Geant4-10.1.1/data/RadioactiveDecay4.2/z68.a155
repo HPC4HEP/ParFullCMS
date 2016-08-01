@@ -1,0 +1,9 @@
+# 155ER ( 5.3 M     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.1800e+02
+                             Alpha       0.0000   2.2000e-04
+                          BetaPlus       0.0000   9.9978e-01
+                             Alpha       0.0000   2.2000e-02    4118.0000
+                          BetaPlus       0.0000   9.9980e+01    3830.2000
+P   563.220000   3.4800e-08
+                                IT       0.0000   1.0000e+00

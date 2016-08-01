@@ -1,0 +1,29 @@
+# 84BR ( 31.76 M   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.9056e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   3.2657e+01    4629.0000    uniqueFirstForbidden
+                         BetaMinus     881.6150   1.3360e+01    3747.3850
+                         BetaMinus    1837.3000   5.9377e-02    2791.7000    uniqueFirstForbidden
+                         BetaMinus    1897.7830   1.1578e+01    2731.2170
+                         BetaMinus    2095.0000   3.9584e-01    2534.0000    uniqueFirstForbidden
+                         BetaMinus    2345.4600   8.9065e-01    2283.5400    uniqueFirstForbidden
+                         BetaMinus    2489.2000   3.2657e-01    2139.8000
+                         BetaMinus    2622.9800   1.6823e+00    2006.0200
+                         BetaMinus    2700.2800   7.2241e+00    1928.7200
+                         BetaMinus    2759.2800   1.1084e+00    1869.7200
+                         BetaMinus    3082.3800   3.8595e+00    1546.6200
+                         BetaMinus    3365.8800   9.3023e+00    1263.1200
+                         BetaMinus    3475.7500   4.8491e-01    1153.2500
+                         BetaMinus    3705.8700   2.4740e+00     923.1300
+                         BetaMinus    3870.1000   1.6823e-01     758.9000
+                         BetaMinus    3878.8000   2.8699e-01     750.2000
+                         BetaMinus    3927.3300   1.1381e+01     701.6700
+                         BetaMinus    4084.3000   4.7501e-01     544.7000
+                         BetaMinus    4116.8000   2.0782e+00     512.2000
+                         BetaMinus    4189.2000   2.0782e-01     439.8000
+P   320.000000   3.6000e+02
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus    2768.6000   1.0000e+02    2180.4000
+P   408.200000   1.4000e-07
+                                IT       0.0000   1.0000e+00

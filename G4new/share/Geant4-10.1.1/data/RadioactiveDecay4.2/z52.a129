@@ -1,0 +1,28 @@
+# 129TE ( 69.6 M    )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   4.1760e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus      27.8000   8.8744e+01    1470.1000
+                         BetaMinus     278.3800   5.5839e-01    1219.5200
+                         BetaMinus     487.3500   9.2733e+00    1010.5500
+                         BetaMinus     559.6200   2.5128e-01     938.2800
+                         BetaMinus     729.5700   6.9799e-04     768.3300
+                         BetaMinus     829.9200   2.1239e-01     667.9800
+                         BetaMinus    1047.3500   9.0739e-03     450.5500
+                         BetaMinus    1111.6500   8.7747e-01     386.2500
+                         BetaMinus    1196.6500   6.5810e-04     301.2500
+                         BetaMinus    1209.8000   5.4842e-04     288.1000
+                         BetaMinus    1260.6600   3.8888e-02     237.2400
+                         BetaMinus    1291.9400   3.2905e-02     205.9600
+P   105.500000   2.9030e+06
+                         BetaMinus       0.0000   3.7000e-01
+                                IT       0.0000   6.3000e-01
+                         BetaMinus       0.0000   3.2933e+01    1603.4000    uniqueFirstForbidden
+                         BetaMinus     695.8900   3.1019e+00     907.5100
+                         BetaMinus     729.5700   7.2760e-01     873.8300
+                         BetaMinus     768.7600   2.9870e-02     834.6400    uniqueFirstForbidden
+                         BetaMinus     844.8200   9.1907e-03     758.5800    uniqueFirstForbidden
+                         BetaMinus    1050.2100   3.8295e-02     553.1900    uniqueFirstForbidden
+                         BetaMinus    1203.6100   6.5101e-04     399.7900    uniqueFirstForbidden
+                         BetaMinus    1281.9900   2.2594e-03     321.4100    uniqueFirstForbidden
+                         BetaMinus    1401.4300   1.5701e-01     201.9700

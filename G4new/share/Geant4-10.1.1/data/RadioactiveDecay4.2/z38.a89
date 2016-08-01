@@ -1,0 +1,6 @@
+# 89SR ( 50.563 D  )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   4.3686e+06
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.9990e+01    1500.9000    uniqueFirstForbidden
+                         BetaMinus     908.9700   9.6400e-03     591.9300

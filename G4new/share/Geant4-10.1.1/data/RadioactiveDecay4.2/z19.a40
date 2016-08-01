@@ -1,0 +1,23 @@
+# 40K ( 1.248E+9 Y)
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.9384e+16
+                         BetaMinus       0.0000   8.9140e-01
+                          MshellEC       0.0000   2.9482e-03
+                          BetaPlus       0.0000   9.9991e-06
+                          KshellEC       0.0000   8.3175e-02
+                          LshellEC       0.0000   2.2467e-02
+                         BetaMinus       0.0000   8.9140e+01    1311.0700    uniqueThirdForbidden
+                          MshellEC       0.0000   2.5837e-03    1504.6900
+                          MshellEC    1460.8510   2.9223e-01      43.8390
+                          BetaPlus       0.0000   9.9991e-04    1504.6900    uniqueThirdForbidden
+                          BetaPlus    1460.8510   9.9991e-28      43.8390    uniqueFirstForbidden
+                          KshellEC       0.0000   1.7977e-01    1504.6900
+                          KshellEC    1460.8510   8.1377e+00      43.8390
+                          LshellEC       0.0000   1.7626e-02    1504.6900
+                          LshellEC    1460.8510   2.2291e+00      43.8390
+P    29.829900   4.2500e-09
+                                IT       0.0000   1.0000e+00
+P  1643.639000   3.3600e-07
+                                IT       0.0000   1.0000e+00
+P  2542.770000   1.0900e-09
+                                IT       0.0000   1.0000e+00

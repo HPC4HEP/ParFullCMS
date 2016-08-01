@@ -1,0 +1,12 @@
+# 165LU ( 10.74 M   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   6.4440e+02
+                          BetaPlus       0.0000   1.0000e+00
+                          BetaPlus     427.6600   1.2500e+01    3412.3400
+                          BetaPlus    1013.1000   1.2500e+01    2826.9000
+                          BetaPlus    1361.5000   1.2500e+01    2478.5000
+                          BetaPlus    1734.1400   1.2500e+01    2105.8600
+                          BetaPlus    2125.8700   1.2500e+01    1714.1300
+                          BetaPlus    2800.0000   1.2500e+01    1040.0000
+                          BetaPlus    3200.0000   1.2500e+01     640.0000
+                          BetaPlus    3600.0000   1.2500e+01     240.0000

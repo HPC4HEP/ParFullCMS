@@ -1,0 +1,7 @@
+# 231AC ( 7.5 M     )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   4.5000e+02
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus     221.3980   5.0050e+00    1723.6020
+                         BetaMinus     554.6510   8.9089e+01    1390.3490
+                         BetaMinus     593.6170   5.9059e+00    1351.3830

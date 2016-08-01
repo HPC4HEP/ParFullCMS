@@ -1,0 +1,17 @@
+# 97TC ( 4.21E+6 Y )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.3286e+14
+                          MshellEC       0.0000   2.6731e-02
+                          KshellEC       0.0000   8.5854e-01
+                          LshellEC       0.0000   1.1473e-01
+                          MshellEC       0.0000   2.6731e+00     320.0000
+                          KshellEC       0.0000   8.5854e+01     320.0000
+                          LshellEC       0.0000   1.1473e+01     320.0000
+P    96.570000   7.8624e+06
+                          MshellEC       0.0000   1.0260e-03
+                          KshellEC       0.0000   3.3955e-02
+                          LshellEC       0.0000   4.4188e-03
+                                IT       0.0000   9.6060e-01
+                          MshellEC       0.0000   1.0260e-01     416.5700
+                          KshellEC       0.0000   3.3955e+00     416.5700
+                          LshellEC       0.0000   4.4188e-01     416.5700

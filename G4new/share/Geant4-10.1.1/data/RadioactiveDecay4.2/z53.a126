@@ -1,0 +1,41 @@
+# 126I ( 12.93 D   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.1172e+06
+                         BetaMinus       0.0000   4.7300e-01
+                          MshellEC       0.0000   1.5799e-02
+                          BetaPlus       0.0000   1.0087e-02
+                          KshellEC       0.0000   4.4146e-01
+                          LshellEC       0.0000   5.9651e-02
+                         BetaMinus       0.0000   1.0296e+01    1258.0000    uniqueFirstForbidden
+                         BetaMinus     388.6310   3.3386e+01     869.3690
+                         BetaMinus     879.8710   3.6185e+00     378.1290
+                          MshellEC       0.0000   5.7629e-01    2155.0000
+                          MshellEC     666.3520   8.6319e-01    1488.6480
+                          MshellEC    1361.3950   6.8701e-06     793.6050
+                          MshellEC    1420.1810   1.4004e-01     734.8190
+                          MshellEC    1873.3990   2.3565e-05     281.6010
+                          MshellEC    2045.1540   3.5355e-04     109.8460
+                          BetaPlus       0.0000   8.1053e-01    2155.0000    uniqueFirstForbidden
+                          BetaPlus     666.3520   1.9813e-01    1488.6480
+                          BetaPlus    1361.3950   1.0007e-27     793.6050    uniqueFirstForbidden
+                          BetaPlus    1420.1810   1.0007e-27     734.8190
+                          BetaPlus    1873.3990   1.0007e-27     281.6010    uniqueFirstForbidden
+                          BetaPlus    2045.1540   1.0007e-27     109.8460
+                          KshellEC       0.0000   1.5963e+01    2155.0000
+                          KshellEC     666.3520   2.4391e+01    1488.6480
+                          KshellEC    1361.3950   1.6776e-04     793.6050
+                          KshellEC    1420.1810   3.7863e+00     734.8190
+                          KshellEC    1873.3990   3.5394e-04     281.6010
+                          KshellEC    2045.1540   5.3978e-03     109.8460
+                          LshellEC       0.0000   2.1728e+00    2155.0000
+                          LshellEC     666.3520   3.2644e+00    1488.6480
+                          LshellEC    1361.3950   2.5499e-05     793.6050
+                          LshellEC    1420.1810   5.2659e-01     734.8190
+                          LshellEC    1873.3990   8.2800e-05     281.6010
+                          LshellEC    2045.1540   1.2532e-03     109.8460
+P    56.430000   1.5900e-08
+                                IT       0.0000   1.0000e+00
+P   110.850000   5.6000e-08
+                                IT       0.0000   1.0000e+00
+P   122.170000   1.3500e-08
+                                IT       0.0000   1.0000e+00

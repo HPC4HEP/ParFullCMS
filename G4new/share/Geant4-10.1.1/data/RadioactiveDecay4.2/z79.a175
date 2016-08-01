@@ -1,0 +1,10 @@
+# 175AU (           )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   0.0000e+00
+                             Alpha       0.0000   1.0000e+00
+                             Alpha       0.0000   1.0000e+02    6562.0000
+P     0.000004   1.6000e-01
+                             Alpha       0.0000   9.4000e-01
+                          BetaPlus       0.0000   6.0000e-02
+                             Alpha       0.0000   9.4000e+01    6562.0000
+                          BetaPlus       0.0000   6.0000e+00    8284.7000

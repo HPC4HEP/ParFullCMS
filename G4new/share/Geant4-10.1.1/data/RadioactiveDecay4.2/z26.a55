@@ -1,0 +1,9 @@
+# 55FE ( 2.744 Y   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   8.6594e+07
+                          KshellEC       0.0000   9.0086e-01
+                          LshellEC       0.0000   9.9145e-02
+                          KshellEC       0.0000   9.0086e+01     231.2100
+                          KshellEC     125.9490   1.0000e-25     105.2610
+                          LshellEC       0.0000   9.9145e+00     231.2100
+                          LshellEC     125.9490   1.0000e-25     105.2610

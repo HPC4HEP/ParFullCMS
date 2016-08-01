@@ -1,0 +1,15 @@
+# 85KR ( 10.756 Y  )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   3.3943e+08
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.9566e+01     687.4000    uniqueFirstForbidden
+                         BetaMinus     280.9860   4.7001e-07     406.4140    uniqueThirdForbidden
+                         BetaMinus     514.0083   4.3401e-01     173.3917
+P   304.871000   1.6128e+04
+                         BetaMinus       0.0000   7.8600e-01
+                                IT       0.0000   2.1400e-01
+                         BetaMinus     151.1610   7.8281e+01     841.1100
+                         BetaMinus     280.9860   2.9993e-01     711.2850
+                         BetaMinus     731.8220   1.8995e-02     260.4490
+P  1991.800000   1.2000e-06
+                                IT       0.0000   1.0000e+00

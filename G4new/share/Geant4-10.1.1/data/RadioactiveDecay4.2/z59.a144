@@ -1,0 +1,22 @@
+# 144PR ( 17.28 M   )
+#  Excitation   Halflife Mode       Daughter Ex  Intensity           Q
+P     0.000000   1.0368e+03
+                         BetaMinus       0.0000   1.0000e+00
+                         BetaMinus       0.0000   9.7900e+01    2997.5000
+                         BetaMinus     696.5610   1.0400e+00    2300.9390    uniqueFirstForbidden
+                         BetaMinus    1560.9200   1.4000e-03    1436.5800    uniqueFirstForbidden
+                         BetaMinus    2072.9100   6.2000e-04     924.5900    uniqueFirstForbidden
+                         BetaMinus    2084.6800   6.7000e-03     912.8200
+                         BetaMinus    2185.7500   1.0500e+00     811.7500
+                         BetaMinus    2368.8200   5.4000e-05     628.6800    uniqueFirstForbidden
+                         BetaMinus    2655.0970   1.5000e-04     342.4030
+                         BetaMinus    2675.6100   8.7000e-04     321.8900
+                         BetaMinus    2742.9900   3.0000e-04     254.5100
+P    59.030000   4.3200e+02
+                         BetaMinus       0.0000   7.0000e-04
+                                IT       0.0000   9.9930e-01
+                         BetaMinus     696.5610   1.0000e-27    2359.9690
+                         BetaMinus    1314.6690   1.0000e-27    1741.8610
+                         BetaMinus    1510.8710   2.6000e-02    1545.6590
+                         BetaMinus    2582.3200   1.1000e-02     474.2100
+                         BetaMinus    2945.9200   3.3000e-02     110.6100
