@@ -35,6 +35,8 @@ int main(int argc,char** argv) {
   G4Random::setTheEngine( &defaultEngine );
   G4int seed = 1220515164;
   G4Random::setTheSeed( seed );
+  
+  int nt = atoi(argv[2]);
 
   G4cout << G4endl 
          << " ===================================================== " << G4endl 
@@ -47,9 +49,11 @@ int main(int argc,char** argv) {
   // GF: note argv[1] : input file in batch
   //              [2] : physics lists to use - optional
   //if ( argc > 1 ) nt = atoi( argv[1] ); 
-  runManager->SetNumberOfThreads( 2 );
+  runManager->SetNumberOfThreads( nt );
+  G4cout << " Compiled with G4MULTITHREADED=1, " << nt << " threads detected" << G4endl;
 #else
   G4RunManager* runManager = new G4RunManager;
+  G4cout << " Compiled with G4MULTITHREADED=0, thread parallelism should be disabled " << G4endl;
 #endif
   //01.25.2009 Xin Dong: The master thread and worker threads have different behavior
   //in the phase of initialization.
@@ -69,13 +73,13 @@ int main(int argc,char** argv) {
 
   // --- Physics Lists ---
   G4String namePL;
-  if ( argc > 2 ) { // The second argument, when present, is a Physics List.
-    namePL = argv[2];
-    G4cout << "ParFullCMS test using physics list " << namePL << G4endl;
-  } else {
+  //if ( argc > 2 ) { // The second argument, when present, is a Physics List.
+    //namePL = argv[2];
+    //G4cout << "ParFullCMS test using physics list " << namePL << G4endl;
+  //} else {
     namePL = "QGSP_BERT";
     G4cout << "ParFullCMS using physics list QGSP_BERT (default)" << G4endl;
-  }
+  //}
 
   G4PhysListFactory factory;
   if ( factory.IsReferencePhysList( namePL ) ) {
