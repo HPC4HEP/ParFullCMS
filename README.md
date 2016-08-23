@@ -18,7 +18,6 @@ source G4new/setup.sh
 ./ParFullCMS bench_file n_threads
 
 
-###
 Tested with gcc --version <= 5.3.0
 
 Benchmarks can run for days, it is highly recommended to run them in a screen/tmux session.
