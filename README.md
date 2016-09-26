@@ -12,8 +12,8 @@ It contains Geant4.
 8. make -f Makefile
 
 ### Configure data locations
-cd G4new
-source setup.sh
+1. cd G4new
+2. source setup.sh
 
 ### Run
 ./ParFullCMS bench_file n_threads
